@@ -5,7 +5,7 @@
 ### Common
 * JavaScript can be surprisingly forgiving when it comes to type errors.
 * Calling a nonfunction or attempting to select a property of null, will throw error.
-* Sometime, JavaScript coerces a value to the expected type by following various automatic conversion protocols. eg: `-, *, /, %`. But `+` is subtler, because it iss overloaded to perform either numeric addtion or string concatenation, depending on the types of its arguments, it is favor of string, converting the number to a string.
+* Sometime, JavaScript coerces a value to the expected type by following various automatic conversion protocols. eg: `-, *, /, %`. But `+` is subtler, because it is overloaded to perform either numeric addtion or string concatenation, depending on the types of its arguments, it is favor of string, converting the number to a string.
 * The bitwise operations not only convert to numbers but to the subset of numbers that can be represented as 32-bit integers (bitwise arithmetic operators `~, ^, &, |, <<, >>, >>>`).
 
 ### Coercions can also hide errors

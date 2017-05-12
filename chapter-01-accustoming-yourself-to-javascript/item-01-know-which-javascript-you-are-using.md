@@ -1,6 +1,7 @@
 # Know Which JavaScript You Are Using
 
-## If you want to write robust code that can be combined with a wide variety of code:
+## Contents
+### If you want to write robust code that can be combined with a wide variety of code:
 1. Never concatenate strict files and nonstrict files.
 2. Concatenate files by wrapping their boodies in immediately invoked function expressions.
 
