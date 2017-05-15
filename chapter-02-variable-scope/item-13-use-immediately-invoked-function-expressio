@@ -1,0 +1,7 @@
+## Use Immediately Invoked Function Expressions to Create Local Scopes
+
+## Things to Remember
+* Understand the difference between binding and assignment.
+* Closures capture their outer variables by reference, not by value.
+* Use Immediately invoked function expressions to create local scopes.
+* Be aware of the cases where wrapping a block in an IIFE can change its behavior.
